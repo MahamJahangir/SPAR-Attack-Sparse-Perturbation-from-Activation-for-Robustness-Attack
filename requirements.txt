@@ -1,0 +1,7 @@
+
+tensorflow
+numpy
+matplotlib
+scikit-image
+Pillow
+ksvd @ git+https://github.com/yourusername/ksvd.git  # Replace with actual ksvd package URL if needed
